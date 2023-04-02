@@ -1,7 +1,3 @@
-
-" Add fzf to runtime path.
-set rtp+=/usr/local/opt/fzf
-
 " Disable compatibility mode with vi.
 set nocompatible
 
@@ -78,6 +74,9 @@ set expandtab
 
 " Automatically use indentation of the parent line.
 set autoindent
+
+" Override text width option so that vim does not jump to next line automatically.
+set textwidth=0
 
 " }}}
 
@@ -170,6 +169,17 @@ set foldnestmax=3
 
 " Disable folding by default.
 set nofoldenable
+
+" }}}
+
+" PLUGINS --- {{{
+
+" Add fzf binary to runtime path so it can be used by the fzf vim plugin.
+set rtp+=/usr/local/opt/fzf
+
+" Time interval in which vim writes its swp file. Reducing this enables git-gutter to show markers more responsively.
+" Defaults to 4000 (4 secs), recommended 100 msecs git-gutter.
+set updatetime=1000
 
 " }}}
 
