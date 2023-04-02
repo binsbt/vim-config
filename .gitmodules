@@ -1,0 +1,9 @@
+[submodule "pack/nord/start/nord-vim"]
+	path = pack/nord/start/nord-vim
+	url = git@github.com:binsbt/nord-vim.git
+[submodule "pack/fzf/start/fzf.vim"]
+	path = pack/fzf/start/fzf.vim
+	url = git@github.com:binsbt/fzf.vim.git
+[submodule "pack/fugitive/start/vim-fugitive"]
+	path = pack/fugitive/start/vim-fugitive
+	url = git@github.com:binsbt/vim-fugitive.git
