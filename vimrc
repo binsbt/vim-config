@@ -23,7 +23,7 @@ set nowrap
 set confirm
 
 " Disable swap file creation.
-" set noswapfile
+set noswapfile
 
 " Enable spell checking.
 " set spell
@@ -178,7 +178,7 @@ set nofoldenable
 set rtp+=/usr/local/opt/fzf
 
 " Time interval in which vim writes its swp file. Reducing this enables git-gutter to show markers more responsively.
-" Defaults to 4000 (4 secs), recommended 100 msecs git-gutter.
+" Defaults to 4000 (4 secs), recommended is 100 msecs by git-gutter. Set to 1000 to avoid compromising performance.
 set updatetime=1000
 
 " }}}
