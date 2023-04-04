@@ -6,9 +6,9 @@ The original reason for creating this is to be able to conveniently use the same
 
 Contains the following plugins:
 
-1. nordtheme/vim
-Link: https://github.com/nordtheme/vim
-A beautiful theme inspired by the arctic. Has a dark version, is easy on the eye while keeping syntax colors different and has great distinguishable colors for diff.
+1. NLKNguyen/papercolor-theme
+Link: https://github.com/NLKNguyen/papercolor-theme
+A theme based on Google's material design. Great contrast and good diff colors.
 
 2. junegunn/fzf.vim
 Link: https://github.com/junegunn/fzf.vim

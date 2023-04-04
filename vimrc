@@ -34,7 +34,7 @@ set noswapfile
 syntax enable
 
 " Use the solarized colorscheme.
-colorscheme nord
+colorscheme papercolor
 
 " }}}
 

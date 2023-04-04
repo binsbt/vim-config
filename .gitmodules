@@ -1,6 +1,3 @@
-[submodule "pack/nord/start/nord-vim"]
-	path = pack/nord/start/nord-vim
-	url = https://github.com/binsbt/nord-vim.git
 [submodule "pack/fugitive/start/vim-fugitive"]
 	path = pack/fugitive/start/vim-fugitive
 	url = https://github.com/binsbt/vim-fugitive.git
@@ -10,3 +7,6 @@
 [submodule "pack/gitgutter/start/vim-gitgutter"]
 	path = pack/gitgutter/start/vim-gitgutter
 	url = https://github.com/binsbt/vim-gitgutter.git
+[submodule "pack/papercolor-theme/start/papercolor-theme"]
+	path = pack/papercolor-theme/start/papercolor-theme
+	url = https://github.com/binsbt/papercolor-theme.git
