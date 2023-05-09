@@ -6,9 +6,9 @@ The original reason for creating this is to be able to conveniently use the same
 
 Contains the following plugins:
 
-1. NLKNguyen/papercolor-theme
-Link: https://github.com/NLKNguyen/papercolor-theme
-A theme based on Google's material design. Great contrast and good diff colors.
+1. altercation/vim-colors-solarized 
+Link: https://github.com/altercation/vim-colors-solarized
+Solarized colors for vim.
 
 2. junegunn/fzf.vim
 Link: https://github.com/junegunn/fzf.vim

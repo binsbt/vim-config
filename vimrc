@@ -37,6 +37,9 @@ syntax enable
 colorscheme solarized
 set background=dark
 
+" Fix colour for the signs column (used by vim-gitgutter to show git diff markers).
+highlight clear SignColumn
+
 " }}}
 
 " VIMDIFF -- {{{
