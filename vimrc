@@ -34,7 +34,8 @@ set noswapfile
 syntax enable
 
 " Use the solarized colorscheme.
-colorscheme papercolor
+colorscheme solarized
+set background=dark
 
 " }}}
 

@@ -7,6 +7,6 @@
 [submodule "pack/gitgutter/start/vim-gitgutter"]
 	path = pack/gitgutter/start/vim-gitgutter
 	url = https://github.com/binsbt/vim-gitgutter.git
-[submodule "pack/papercolor-theme/start/papercolor-theme"]
-	path = pack/papercolor-theme/start/papercolor-theme
-	url = https://github.com/binsbt/papercolor-theme.git
+[submodule "pack/solarized/start/vim-colors-solarized"]
+	path = pack/solarized/start/vim-colors-solarized
+	url = https://github.com/binsbt/vim-colors-solarized.git
